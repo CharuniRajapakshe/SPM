@@ -1,0 +1,35 @@
+*{
+    transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+}
+.navigation{
+    background: #222d32;
+    height: auto;
+    padding-right: 0;
+    min-height: 800px;
+}
+
+.navigation-item{
+    border-left: 4px solid transparent;
+    color: #b8c7ce;
+    padding-top: 5%;
+    padding-left: 4%;
+    height: 45px;
+    font-size: 16px;
+    text-align: left;
+}
+.navigation-item:hover{
+    border-radius: 3%;
+    border-left: 4px solid #0065C9;
+    background: #1e282c;
+    cursor: pointer;
+}
+.navigation-item:active{
+    background: #2c3b41;
+    border-left: 4px solid #003468;
+}
+
+.nav-item{
+    color: white;
+}

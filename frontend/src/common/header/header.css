@@ -1,0 +1,18 @@
+.header{
+    height: 50px;
+    background: #17a2b8;
+    cursor: pointer;
+}
+.title{
+    font-size: 22px;
+    padding-top: 4.3%;
+    margin-left: 10px;
+    color: white;
+}
+.username{
+    text-align: right;
+    color: white;
+    margin-right: 10px;
+    padding-top: 1%;
+    font-size: 15px;
+}
